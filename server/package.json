@@ -18,6 +18,9 @@
     "sequelize": "^6.21.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
+    "@typescript-eslint/parser": "^5.30.6",
+    "nodemon": "^2.0.19",
+    "prettier": "2.7.1"
   }
 }
